@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blanchedalmond;
+}
+
+.link{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+    font-size: 20px;
+}
+input{
+    width: 250px;
+    height: 30px;
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+}
